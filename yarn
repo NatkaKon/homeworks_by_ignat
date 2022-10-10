@@ -1,0 +1,21 @@
+yarn add v1.22.19
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+success Saved 10 new dependencies.
+info Direct dependencies
+└─ gh-pages@4.0.0
+info All dependencies
+├─ array-uniq@1.0.3
+├─ async@2.6.4
+├─ email-addresses@3.1.0
+├─ filename-reserved-regex@2.0.0
+├─ filenamify@4.3.0
+├─ gh-pages@4.0.0
+├─ pinkie-promise@2.0.1
+├─ pinkie@2.0.4
+├─ strip-outer@1.0.1
+└─ trim-repeated@1.0.0
+Done in 21.16s.

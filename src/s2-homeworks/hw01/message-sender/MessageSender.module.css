@@ -1,0 +1,36 @@
+.sendForm {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.textarea {
+    width: 70%;
+    min-height: 20px;
+    border: none;
+    border-radius: 10px;
+    resize: none;
+    outline: none;
+    /*overflow: hidden; убирает скролл*/
+
+}
+.textarea:focus{
+    border: 2px solid #0066CC;
+}
+.button {
+background-color: #0066CC;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    /*width: 120px;*/
+    /*height: 40px;*/
+    padding: 10px 38px;
+}
+
+.button:hover {
+
+}
+.button:active {
+
+}
