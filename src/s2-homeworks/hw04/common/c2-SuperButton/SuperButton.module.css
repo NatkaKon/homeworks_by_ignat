@@ -1,13 +1,14 @@
 .button {
-    width:132px;
+    width:140px;
     height: 30px;
     border-radius: 3px;
     padding: 5px 24px;
-    background: #004D99;
+    background: #0066CC;
     color: white;
     font-family: Montserrat, sans-serif;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 14px;
+    border:none;
 }
 
 .disabled {
