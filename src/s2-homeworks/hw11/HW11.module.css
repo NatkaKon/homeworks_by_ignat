@@ -1,8 +1,20 @@
 .container {
+    width: 50vw;
 }
 
 .wrapper {
+    width: 100%;
+    display: flex;
+    gap: 20px;
 }
 
 .number {
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.range {
+    max-width: 200px;
 }
